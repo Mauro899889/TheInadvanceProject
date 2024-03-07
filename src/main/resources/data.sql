@@ -1,0 +1,1 @@
+INSERT INTO CONFIGURATION (id, property, value) VALUES (1, 'passwordRegex', '^([a-zA-Z]{1,15})([0-9]+)[^\s]*$');
